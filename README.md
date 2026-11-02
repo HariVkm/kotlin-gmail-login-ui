@@ -1,7 +1,7 @@
 # Android Applications – Kotlin & Android Studio
 # kotlin-gmail-login-ui
 A collection of simple Android applications developed using **Kotlin and Android Studio**, focusing on beginner-friendly app development, modern XML UI designs, form validation, login screens, and activity navigation.
-## 🚀 Features
+##  Features
 - Simple and modern Android UI designs using XML
 - Login and registration screen layouts
 - Email and password validation using Kotlin
